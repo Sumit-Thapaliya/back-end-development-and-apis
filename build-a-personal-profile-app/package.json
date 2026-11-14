@@ -1,0 +1,21 @@
+
+{
+  "name": "personal-profile-app",
+  "version": "1.0.0",
+  "description": "A personal profile app built with Express.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "personal-profile"
+  ],
+  "author": "Sumit Thapaliya",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
